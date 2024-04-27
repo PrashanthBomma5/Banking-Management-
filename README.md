@@ -12,8 +12,7 @@ HTML/CSS/JavaScript: Frontend technologies for building user interfaces and inte
 SQLite: The default database used by Django for storing data.
 Bootstrap: Frontend framework for designing responsive and mobile-first websites.
 Python: The primary programming language used for backend development.
-Usage
-Installation: Clone the repository and install the required dependencies using pip.
+Usage Installation: Clone the repository and install dependencies using pip. bash Copy code git clone https://github.com/PrashanthBomma5/Banking-Management-.git cd Banking-Management- pip install -r requirements.txt
 
 Database Setup: Migrate database schema using Django's manage.py command.
 Run the Server: Start the Django development server using manage.py runserver.
